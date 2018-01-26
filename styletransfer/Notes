@@ -1,0 +1,6 @@
+Intall These before going ahead
+
+>>> import imageio
+>>> imageio.plugins.ffmpeg.download()
+
+### Deep Traffic Link is  not working, Need to update
